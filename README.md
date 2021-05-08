@@ -22,7 +22,7 @@
 ![Requesting all players on database](https://i.imgur.com/ShWdKuJ.png)
 
 ## Future Implementations
- - Creating a table validating the datas.
+ - Creating a table with validated data.
  - Add a method to change an item (PUT).
- - Createing a project detailed documentation.
+ - Creating a project detailed documentation.
  - Add some unitary tests using Junit.
